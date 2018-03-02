@@ -2,7 +2,7 @@
 
 Visit the [website](https://recomapp.github.io/).
 
-Thanks to:
+Thanks to
 [Nicanor Perera](https://github.com/nicanor/) and
 [Christopher Adams](https://github.com/christopheradams/)
 
@@ -10,8 +10,8 @@ Thanks to:
 
 ```sh
 gem install jekyll bundler
-git clone git@github.com:nicanor/nicanor.github.io.git
-cd nicanor.github.io
+git clone git@github.com:recomapp/recomapp.github.io.git
+cd recomapp.github.io
 bundle install
 bundle exec jekyll build
 ```
