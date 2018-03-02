@@ -3,8 +3,8 @@
 Visit the [website](https://recomapp.github.io/).
 
 Thanks to:
-[Nicanor Perera] (https://github.com/nicanor)
-[Christopher Adams] (https://github.com/christopheradams)
+[Nicanor Perera](https://github.com/nicanor/)
+[Christopher Adams](https://github.com/christopheradams/)
 
 ## Instructions for copying this website
 
