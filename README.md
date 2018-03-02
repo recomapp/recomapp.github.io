@@ -1,6 +1,6 @@
 # This is Recomapp Blog
 
-Visit the [website](https://recomapp.github.io/).
+Visit the [Blog](https://recomapp.github.io/).
 
 Thanks to
 [Nicanor Perera](https://github.com/nicanor/) and
