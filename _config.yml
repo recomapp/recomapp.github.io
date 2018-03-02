@@ -1,0 +1,18 @@
+title: recomapp.github.io
+description: "Recomapp's Blog"
+author: "Gonzalo Goral"
+author_description: ""
+exclude: [README.md, LICENSE.md, Gemfile, Gemfile.lock]
+plugins: ["jekyll-feed"]
+
+url: https://recomapp.github.io
+
+permalink: /:categories/:year/:month/:title/
+
+email: recomapp@protonmail.com
+github_username: recomapp
+
+source_url: "https://github.com/recomapp/recomapp.github.io/blob/master/"
+
+license: "CC-by"
+license_url: https://creativecommons.org/licenses/by/4.0/
