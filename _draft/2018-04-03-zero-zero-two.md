@@ -1,8 +1,7 @@
 ---
 layout: post
-title:  "zero zero one"
+title:  "zero zero two"
 category: articles
-tags: 
+tags:
 location: "La Plata"
 ---
-
